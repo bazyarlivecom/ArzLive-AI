@@ -1,0 +1,5 @@
+{
+  "name": "ArzLive AI",
+  "description": "A real-time dashboard for monitoring Iranian currency (Dollar, Euro) and Gold Coin prices, featuring AI-powered market analysis and Toman/Rial conversion.",
+  "requestFramePermissions": []
+}
