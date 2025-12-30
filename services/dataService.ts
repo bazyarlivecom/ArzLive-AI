@@ -159,3 +159,7 @@ export const fetchMarketData = async (): Promise<{ assets: Asset[], error: strin
 
   return { assets: assetsState, error };
 };
+
+export const clearHistory = () => {
+  localStorage.removeItem(STORAGE_KEY);
+};
